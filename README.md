@@ -26,10 +26,10 @@
 </p>
 <h2 align="center">Competitive Programming</h2>
 <p align="center"> 
-  <a href="https://www.codechef.com/users/amitpandey_22" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef"/> 
   </a>
-  <a href="https://codeforces.com/profile/AmitPandey-AP" target="_blank">
+  <a href="https://codeforces.com/profile/durgeshagr_22" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/> 
   </a>
 
@@ -38,10 +38,10 @@
 
 <h2 align = "center"> 📫 Reach me on 📫 </h2>
 <p align = "center"> 
-  <a  href = "https://www.linkedin.com/in/amit-pandey-37810b259/" target = "_blank"> 
-    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "-amit-pandey" />
+  <a  href = "www.linkedin.com/in/durgesh-agrahari-0a3488270" target = "_blank"> 
+    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "durgeshagr" />
   </a>
-  <a href = "mailto:pandeyamit5969@gmail.com" target = "_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt = "pandeyamit5969" />
+  <a href = "mailto:durgeshdurgesh132@gmail.com" target = "_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt = "durgeshagr" />
   </a>
 </p>
