@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Pursuing B.Tech in Computer Science & Engineering at <b>IET Lucknow</b> <br/>
   💡 Exploring <b>MERN, Next.js, TypeScript, Generative AI</b> and building real-world projects <br/>
-   Specialist at Codeforces (Max Rating - 1431) | 3⭐ CodeChef (Max Rating - 1755)| Knight at LeetCode (Max Rating - 1850 in 5.89 % LeetCode Users) <br/>
+   Specialist at Codeforces (Max Rating - 1431) | 3⭐ CodeChef (Max Rating - 1798)| Knight at LeetCode (Max Rating - 1850 in 5.89 % LeetCode Users) <br/>
 </p>
 
 ---
